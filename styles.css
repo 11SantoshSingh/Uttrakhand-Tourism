@@ -1,0 +1,41 @@
+.destination{
+    text-align: center;
+}
+
+
+.album{
+    text-align: center;
+}
+
+
+.img-200 {
+        width: 600px;
+        height: 500px; /* Maintain aspect ratio */
+    }
+
+    .destination {
+        font-size: 1.5rem;
+        color: #291a86; /* Adjust text color as needed */
+        text-decoration: none; /* Remove underline by default */
+    }
+
+    .destination a {
+        color: #131416; /* Link color */
+        text-decoration: none; /* Remove underline */
+    }
+
+    .destination a:hover {
+        text-decoration: none; /* Ensure no underline on hover */
+    }
+
+    .footer {
+        background-image: url(images/background2.webp);
+        margin-bottom: 0; /* Remove bottom margin */
+        padding-bottom: 20px; /* Optional: Add padding if needed */
+    }
+
+    .form-control{
+        background-color: rgb(185, 163, 163);
+        border-color:rgb(185, 163, 163) ;
+        color: black;
+    }
